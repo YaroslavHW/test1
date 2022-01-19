@@ -1,0 +1,26 @@
+#test div {
+	margin-bottom: 30px;
+}
+.correct {
+	border: 1px solid green;
+}
+.incorrect {
+	border: 1px solid red;
+}
+body{
+	background-image: url(background.jpg);
+}
+.test h1{
+	text-align: center;
+}
+.box{
+	padding: 20px 36px;
+	margin: 30px 200px 0;
+	cursor: pointer;
+}
+.test{
+	width: 600px;
+	background-color: white;
+	padding: 20px;
+	margin: 0 auto;
+}
